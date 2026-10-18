@@ -1,0 +1,1 @@
+Copy the original transparent NOVA PDF logo image into this folder and name it nova-pdf-logo.png. The sidebar and footer already reference /images/nova-pdf-logo.png.
